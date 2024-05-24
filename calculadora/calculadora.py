@@ -1,4 +1,4 @@
-from funciones import * 
+from funciones_calculadora import * 
 
 a = None
 b = None
